@@ -7,3 +7,10 @@
 # Kubernetes
 https://github.com/garden-io/garden
 Development orchestrator for Kubernetes, containers and functions. https://garden.io
+
+
+#
+# kubectl
+#
+https://github.com/aylei/kubectl-debug
+Debug your pod by a new container with every troubleshooting tools pre-installed
