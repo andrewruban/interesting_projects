@@ -1,18 +1,3 @@
-============ Interesting projects for me on GitHub fields =============
-
-#
-# Container orchestration
-#
-
-# Kubernetes
-https://github.com/garden-io/garden - Development orchestrator for Kubernetes, containers and functions. https://garden.io
-
-
-#
-# kubectl
-#
-https://github.com/aylei/kubectl-debug - Debug your pod by a new container with every troubleshooting tools pre-installed
-
 
 #
 # Load testing
@@ -22,7 +7,3 @@ https://github.com/yandex/yandex-tank - Load and performance benchmark tool
 https://github.com/tsenart/vegeta - HTTP load testing tool and library. It's over 9000! 
 https://gatling.io/ - Async Scala-Akka-Netty based Load Test Tool 
 
-
-=== Work ===
-
-https://github.com/tlbootcamp/tlroadmap - teamlead road map
