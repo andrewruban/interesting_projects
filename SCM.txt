@@ -1,3 +1,4 @@
 #
 # Source control management
 #
+https://github.com/awslabs/git-secrets - Prevents you from committing secrets and credentials into git repositories
