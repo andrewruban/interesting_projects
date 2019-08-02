@@ -4,3 +4,9 @@
 
 https://github.com/flant/werf 
 - Werf (previously known as dapp) helps to implement and support Continuous Integration and Continuous Delivery
+
+https://github.com/garden-io/garden - Development orchestrator for Kubernetes, containers and functions. https://garden.io
+
+
+# kubectl
+https://github.com/aylei/kubectl-debug - Debug your pod by a new container with every troubleshooting tools pre-installed
