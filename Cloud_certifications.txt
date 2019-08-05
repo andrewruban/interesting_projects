@@ -1,0 +1,5 @@
+#
+# AWS
+#
+
+https://github.com/SkullTech/aws-solutions-architect-associate-notes - notes for AWS Solutions Architect Associate
