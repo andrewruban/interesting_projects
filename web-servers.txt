@@ -1,0 +1,6 @@
+#
+# Nginx
+#
+
+https://github.com/trimstray/nginx-admins-handbook#blocking-referrer-spam 
+- How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100
