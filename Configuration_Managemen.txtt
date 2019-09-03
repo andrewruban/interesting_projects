@@ -1,1 +1,4 @@
-test
+#
+# Puppet
+#
+https://github.com/rodjek/puppet-lint - puppet linter 
