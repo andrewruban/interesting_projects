@@ -1,4 +1,9 @@
+############
+# Graphana #
+############
+
 #
-# Graphana
+# K8s monitoring 
 #
 
+https://github.com/devopsprodigy/kubegraf - Grafana-plugin for k8s' monitoring
