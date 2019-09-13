@@ -1,0 +1,12 @@
+##########
+# Puppet #
+##########
+https://github.com/rodjek/puppet-lint - puppet linter 
+
+
+###########
+# Ansible #
+###########
+
+# Ansible linter
+https://github.com/ansible/ansible-lint 
