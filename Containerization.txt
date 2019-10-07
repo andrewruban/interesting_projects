@@ -34,7 +34,7 @@ https://kubesec.io/ - Security risk analysis for Kubernetes resources
 # k8s - other
 #
 https://github.com/instrumenta/kubeval - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
-
+https://github.com/wercker/stern - Multi pod and container log tailing for Kubernetes
 ##########
 # DOCKER #
 ##########
