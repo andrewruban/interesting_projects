@@ -1,1 +1,6 @@
 https://github.com/tlbootcamp/tlroadmap - teamlead road map
+
+#
+# Code review
+#
+https://github.com/google/eng-practices - Google's Engineering Practices documentation
