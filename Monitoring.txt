@@ -7,3 +7,9 @@
 #
 
 https://github.com/devopsprodigy/kubegraf - Grafana-plugin for k8s' monitoring
+
+
+#
+# General
+#
+https://github.com/skydive-project/skydive - An open source real-time network topology and protocols analyzer
