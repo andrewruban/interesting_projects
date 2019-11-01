@@ -58,3 +58,17 @@ https://github.com/wagoodman/dive - A tool for exploring each layer in a docker 
 #
 
 https://github.com/docker/docker-bench-security - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+
+https://github.com/coreos/clair - Vulnerability Static Analysis for Containers
+
+https://github.com/cilium/cilium - API Aware Networking and Security using BPF and XDP
+
+https://github.com/anchore/anchore-engine - A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification
+
+https://github.com/eliasgranderubio/dagda - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities
+
+https://github.com/theupdateframework/notary - Notary is a project that allows anyone to have trust over arbitrary collections of data
+
+https://github.com/falcosecurity/falco - Falco: Container Native Runtime Security https://falco.org
+
+https://github.com/banyanops/collector - A framework for Static Analysis of Docker container images
