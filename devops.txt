@@ -1,0 +1,5 @@
+#
+# Practices and methodologies
+#
+
+https://github.com/ConnorBrereton/SiteReliabilityEngineering - Notes on 'Site Reliability Engineering' by Google
