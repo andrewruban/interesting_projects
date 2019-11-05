@@ -60,6 +60,8 @@ https://github.com/idestis/gort/ - Simple HTTP handler to receive remote calls t
 
 https://github.com/docker/docker-bench-security - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 
+https://github.com/aquasecurity/trivy - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+
 https://github.com/coreos/clair - Vulnerability Static Analysis for Containers
 
 https://github.com/cilium/cilium - API Aware Networking and Security using BPF and XDP
