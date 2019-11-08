@@ -1,4 +1,7 @@
-#
+
 # k8s fun
-#
 https://github.com/gshipley/wild-west-kubernetes - A wild west game to kill pods on kubernetes
+
+
+# development
+https://github.com/solarrust/hacker-laws - Законы, теории, принципы и модели, которые полезно знать разработчику
