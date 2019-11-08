@@ -41,10 +41,6 @@ https://github.com/wercker/stern - Multi pod and container log tailing for Kuber
 #
 https://github.com/vmware-tanzu/velero - Backup and migrate Kubernetes applications and their persistent volumes
 
-#
-# k8s fun
-#
-https://github.com/gshipley/wild-west-kubernetes - A wild west game to kill pods on kubernetes
 
 ##########
 # DOCKER #
