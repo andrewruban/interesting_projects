@@ -2,3 +2,8 @@
 # New work
 #
 https://github.com/bregman-arie/devops-interview-questions - DevOps Interview Questions 
+
+#
+# Fun
+#
+https://github.com/solarrust/hacker-laws
