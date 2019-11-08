@@ -1,0 +1,4 @@
+#
+# k8s fun
+#
+https://github.com/gshipley/wild-west-kubernetes - A wild west game to kill pods on kubernetes
