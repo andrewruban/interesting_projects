@@ -5,3 +5,6 @@ https://github.com/gshipley/wild-west-kubernetes - A wild west game to kill pods
 
 # development
 https://github.com/solarrust/hacker-laws - Законы, теории, принципы и модели, которые полезно знать разработчику
+
+# Docker
+https://github.com/bmustiata/docker-heroes3-demo - heroes 3 in docker container
