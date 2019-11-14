@@ -1,6 +1,0 @@
-#
-# New work
-#
-https://github.com/bregman-arie/devops-interview-questions - DevOps Interview Questions 
-
-
