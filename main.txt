@@ -16,3 +16,8 @@ https://direnv.net/ - is an extension for your shell. It augments existing shell
 # Web
 #
 https://httpie.org/ - is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
+
+#
+# New work
+#
+https://github.com/bregman-arie/devops-interview-questions - DevOps Interview Questions 
