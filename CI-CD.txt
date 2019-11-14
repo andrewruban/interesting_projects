@@ -1,0 +1,26 @@
+#---------------------------------------------
+# Continious Integration 
+#---------------------------------------------
+
+
+
+
+
+#---------------------------------------------
+# Continious Delivery
+#---------------------------------------------
+#
+# jenkins
+#
+https://github.com/jenkinsci/pipeline-examples 
+
+#
+# Spinnaker
+#
+https://github.com/spinnaker/swabbie - Spinnaker's clean up service
+
+
+#
+# Theory
+#
+https://github.com/adidas/adidas-devops-maturity-framework - The DevOps maturity framework was created by adidas as a guide for the first DevOps cup to support the teams on their DevOps transformation journey.
