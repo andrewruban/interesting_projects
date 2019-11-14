@@ -8,6 +8,11 @@ https://github.com/tsenart/vegeta - HTTP load testing tool and library. It's ove
 https://gatling.io/ - Async Scala-Akka-Netty based Load Test Tool 
 
 #
+# Testing
+#
+https://github.com/netflix/chaosmonkey - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+
+#
 # Shell
 #
 https://direnv.net/ - is an extension for your shell. It augments existing shells with a new feature that can load and unload environment variables depending on the current directory.
