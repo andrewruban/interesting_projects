@@ -78,4 +78,6 @@ https://github.com/banyanops/collector - A framework for Static Analysis of Dock
 #
 # Other
 #
+https://github.com/alexei-led/pumba - Chaos testing and network emulation tool for Docker.
+
 https://github.com/GoogleContainerTools/jib - Build container images for your Java applications.
