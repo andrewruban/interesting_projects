@@ -26,3 +26,8 @@ https://httpie.org/ - is a command line HTTP client with an intuitive UI, JSON s
 # New work
 #
 https://github.com/bregman-arie/devops-interview-questions - DevOps Interview Questions 
+
+#
+# Manage dependencies
+#
+https://dependabot.com/
