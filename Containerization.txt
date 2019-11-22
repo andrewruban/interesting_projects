@@ -52,6 +52,7 @@ https://github.com/wagoodman/dive - A tool for exploring each layer in a docker 
 https://github.com/idestis/gort/ - Simple HTTP handler to receive remote calls to run scripts bundled in Docker containers
 
 
+
 #
 # Docker containers security
 #
@@ -73,3 +74,8 @@ https://github.com/theupdateframework/notary - Notary is a project that allows a
 https://github.com/falcosecurity/falco - Falco: Container Native Runtime Security https://falco.org
 
 https://github.com/banyanops/collector - A framework for Static Analysis of Docker container images
+
+#
+# Other
+#
+https://github.com/GoogleContainerTools/jib - Build container images for your Java applications.
