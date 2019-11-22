@@ -1,7 +1,7 @@
 #
 # AWS
 #
-
+https://awsu.me/ - A utility for easily assuming AWS IAM roles from the command line.
 
 #
 # GCP
