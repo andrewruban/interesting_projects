@@ -12,6 +12,9 @@ https://github.com/urfave/cli - A simple, fast, and fun package for building com
 
 https://github.com/hoanhan101/ultimate-go - Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place
 
+# Go linters/check syntax
+https://github.com/golangci/golangci-lint - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
+
 # ---------------------------------------------------------
 # Shell/bash
 # ---------------------------------------------------------
