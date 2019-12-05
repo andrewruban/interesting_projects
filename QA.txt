@@ -1,0 +1,4 @@
+#
+# Browser tests
+#
+https://github.com/qawolf/qawolf - Record browser tests with one command
