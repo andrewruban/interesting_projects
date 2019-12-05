@@ -16,6 +16,9 @@ https://github.com/hoanhan101/ultimate-go - Ultimate Go study guide, with heavil
 # Go linters/check syntax
 https://github.com/golangci/golangci-lint - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
 
+# Go libraries
+https://github.com/gizak/termui - Golang terminal dashboard
+
 # ---------------------------------------------------------
 # Shell/bash
 # ---------------------------------------------------------
