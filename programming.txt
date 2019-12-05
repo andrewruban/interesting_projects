@@ -25,3 +25,9 @@ https://github.com/gizak/termui - Golang terminal dashboard
 https://github.com/gruntwork-io/bash-commons - A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more
 
 https://github.com/cyberark/bash-lib - Library for bash utility methods and tools
+
+# ---------------------------------------------------------
+# JavaScript
+# ---------------------------------------------------------
+
+https://github.com/yaronn/blessed-contrib
