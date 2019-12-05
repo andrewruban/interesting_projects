@@ -12,15 +12,22 @@ https://gatling.io/ - Async Scala-Akka-Netty based Load Test Tool
 #
 https://github.com/netflix/chaosmonkey - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 
-#
+# ---------------------------------------------------------
 # Shell
-#
+# ---------------------------------------------------------
 https://direnv.net/ - is an extension for your shell. It augments existing shells with a new feature that can load and unload environment variables depending on the current directory.
 
+# ZSH plugins
+git
+zsh-syntax-highlighting
+zsh-autosuggestions
+zshmarks - https://github.com/jocelynmallon/zshmarks (simple bookmarking plugin by Todd Werth)
+ 
+ 
 https://github.com/asdf-vm/asdf - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-#
+# ---------------------------------------------------------
 # Web
-#
+# ---------------------------------------------------------
 https://httpie.org/ - is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
 
 #
