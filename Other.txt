@@ -32,3 +32,8 @@ https://github.com/bregman-arie/devops-interview-questions - DevOps Interview Qu
 # Manage dependencies
 #
 https://dependabot.com/
+
+#
+# Converter
+#
+https://github.com/ritz078/transform - A polyglot web converter. https://transform.tools
