@@ -43,6 +43,9 @@ https://github.com/learnk8s/kubernetes-production-best-practices - A checklist o
 #
 https://github.com/vmware-tanzu/velero - Backup and migrate Kubernetes applications and their persistent volumes
 
+# K8s documentation icons
+https://github.com/kubernetes/community/tree/master/icons 
+
 
 ##########
 # DOCKER #
