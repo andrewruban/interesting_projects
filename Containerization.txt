@@ -34,6 +34,7 @@ https://kubesec.io/ - Security risk analysis for Kubernetes resources
 #
 https://github.com/instrumenta/kubeval - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 https://github.com/wercker/stern - Multi pod and container log tailing for Kubernetes
+https://github.com/ahmetb/kubectx - Switch faster between clusters and namespaces in kubectl https://kubectx.dev
 
 # k8s architecture
 https://github.com/learnk8s/kubernetes-production-best-practices - A checklist of Kubernetes best practices to help you release to production
