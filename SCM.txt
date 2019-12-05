@@ -3,4 +3,7 @@
 #
 https://github.com/awslabs/git-secrets - Prevents you from committing secrets and credentials into git repositories
 
-https://google.github.io/eng-practices/review/ - how to make a code review
+#
+# Interesting 
+#
+github.githistory.xyz - Quickly browse the history of a file from any git repository
