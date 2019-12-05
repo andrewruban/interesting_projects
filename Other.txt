@@ -37,3 +37,8 @@ https://dependabot.com/
 # Converter
 #
 https://github.com/ritz078/transform - A polyglot web converter. https://transform.tools
+
+#
+# Diagrams/Schema/Flowcharts
+#
+https://github.com/alyssaxuu/flowy - The minimal javascript library to create flowcharts
