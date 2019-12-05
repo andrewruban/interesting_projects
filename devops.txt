@@ -7,3 +7,8 @@ https://github.com/ConnorBrereton/SiteReliabilityEngineering - Notes on 'Site Re
 https://github.com/devopsfactors/devopsfactors - The DevOps Factors https://devopsfactors.com/
 
 https://github.com/tlbootcamp/tlroadmap - Карта навыков и модель развития тимлидов
+
+#
+# Code review
+#
+https://google.github.io/eng-practices/review/ - how to make a code review
