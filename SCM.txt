@@ -7,3 +7,4 @@ https://github.com/awslabs/git-secrets - Prevents you from committing secrets an
 # Interesting 
 #
 github.githistory.xyz - Quickly browse the history of a file from any git repository
+https://fatbusinessman.com/2019/my-favourite-git-commit - how to make commits
