@@ -12,3 +12,8 @@ https://github.com/tlbootcamp/tlroadmap - Карта навыков и моде�
 # Code review
 #
 https://google.github.io/eng-practices/review/ - how to make a code review
+
+#
+# Hire new devops
+#
+https://dou.ua/lenta/articles/how-to-interview-devops-engineer/
