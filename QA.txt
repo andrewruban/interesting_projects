@@ -2,3 +2,5 @@
 # Browser tests
 #
 https://github.com/qawolf/qawolf - Record browser tests with one command
+
+https://github.com/rakyll/hey - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
