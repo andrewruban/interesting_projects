@@ -49,3 +49,8 @@ https://github.com/ritz078/transform - A polyglot web converter. https://transfo
 # Diagrams/Schema/Flowcharts
 #
 https://github.com/alyssaxuu/flowy - The minimal javascript library to create flowcharts
+
+# ---------------------------------------------------------
+# Messengers
+# ---------------------------------------------------------
+https://github.com/mxssl/tg-captcha-bot/ - Telegram Сaptcha Bot
