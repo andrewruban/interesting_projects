@@ -8,6 +8,8 @@ https://github.com/devopsfactors/devopsfactors - The DevOps Factors https://devo
 
 https://github.com/tlbootcamp/tlroadmap - Карта навыков и модель развития тимлидов
 
+https://github.com/chiaen/sre-book-in-audio/tree/master/output - SRE from Google (audiobook)
+
 #
 # Code review
 #
