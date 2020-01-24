@@ -47,6 +47,8 @@ https://github.com/vmware-tanzu/velero - Backup and migrate Kubernetes applicati
 # K8s documentation icons
 https://github.com/kubernetes/community/tree/master/icons 
 
+# k8s fun
+https://github.com/storax/kubedoom - Kill Kubernetes pods by playing Id's DOOM!
 
 ##########
 # DOCKER #
