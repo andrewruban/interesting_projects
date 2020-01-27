@@ -28,6 +28,7 @@ https://github.com/zalando/zalenium - A flexible and scalable container based Se
 https://github.com/kabachook/k8s-security - Kubernetes security notes and best practices
 https://habr.com/ru/company/flant/blog/465141/ [ru] - list of projects that can improve k8s security
 https://kubesec.io/ - Security risk analysis for Kubernetes resources 
+https://github.com/octarinesec/kube-scan - kube-scan: Octarine k8s cluster risk assessment tool 
 
 #
 # k8s - other
@@ -35,6 +36,7 @@ https://kubesec.io/ - Security risk analysis for Kubernetes resources
 https://github.com/instrumenta/kubeval - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 https://github.com/wercker/stern - Multi pod and container log tailing for Kubernetes
 https://github.com/ahmetb/kubectx - Switch faster between clusters and namespaces in kubectl https://kubectx.dev
+https://github.com/sighupio/permission-manager - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
 
 # k8s architecture
 https://github.com/learnk8s/kubernetes-production-best-practices - A checklist of Kubernetes best practices to help you release to production
