@@ -25,6 +25,8 @@ https://github.com/zalando/zalenium - A flexible and scalable container based Se
 #
 # Kubernetes Security
 #
+https://habr.com/ru/company/flant/blog/465141/ - 33+ инструмента для безопасности Kubernetes
+https://habr.com/ru/company/flant/blog/436300/ - security recommendations
 https://github.com/kabachook/k8s-security - Kubernetes security notes and best practices
 https://habr.com/ru/company/flant/blog/465141/ [ru] - list of projects that can improve k8s security
 https://kubesec.io/ - Security risk analysis for Kubernetes resources 
