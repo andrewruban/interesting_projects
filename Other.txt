@@ -17,6 +17,8 @@ https://github.com/netflix/chaosmonkey - Chaos Monkey is a resiliency tool that 
 # ---------------------------------------------------------
 https://direnv.net/ - is an extension for your shell. It augments existing shells with a new feature that can load and unload environment variables depending on the current directory.
 
+https://github.com/asciinema/asciinema - Terminal session recorder  ( https://asciinema.org )
+
 # ZSH plugins
 git
 zsh-syntax-highlighting
