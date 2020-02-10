@@ -8,6 +8,8 @@ https://www.plynth.net/ - thread-safe HTML/CSS/Python GUI framework
 # Pandas linter
 https://github.com/dovpanda-dev/dovpanda - Directions overlay for working with pandas in an analysis environment
 
+https://github.com/spulec/moto - A library that allows you to easily mock out tests based on AWS infrastructure
+
 # ---------------------------------------------------------
 # Go
 # ---------------------------------------------------------
