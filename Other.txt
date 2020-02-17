@@ -19,6 +19,8 @@ https://direnv.net/ - is an extension for your shell. It augments existing shell
 
 https://github.com/asciinema/asciinema - Terminal session recorder  ( https://asciinema.org )
 
+https://github.com/kellyjonbrazil/jc - This tool serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
+
 # ZSH plugins
 git
 zsh-syntax-highlighting
