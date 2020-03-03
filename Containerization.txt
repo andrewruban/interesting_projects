@@ -40,6 +40,8 @@ https://github.com/wercker/stern - Multi pod and container log tailing for Kuber
 https://github.com/ahmetb/kubectx - Switch faster between clusters and namespaces in kubectl https://kubectx.dev
 https://github.com/sighupio/permission-manager - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
 https://github.com/ibuildthecloud/klum - Kubernetes Lazy User Manager
+https://github.com/astefanutti/kubebox - Terminal and Web console for Kubernetes https://kube.sh
+https://github.com/johanhaleby/kubetail - Bash script to tail Kubernetes logs from multiple pods at the same time 
 
 
 # k8s architecture
