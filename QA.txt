@@ -4,6 +4,7 @@
 https://github.com/qawolf/qawolf - Record browser tests with one command
 
 https://github.com/rakyll/hey - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+https://github.com/mherrmann/helium - Selenium-python, 50% easier. Helium is the best Python library for web automation.
 
 #
 # Cloud infra testing
