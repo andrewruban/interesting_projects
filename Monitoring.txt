@@ -7,7 +7,7 @@
 #
 
 https://github.com/devopsprodigy/kubegraf - Grafana-plugin for k8s' monitoring
-
+https://github.com/lensapp/lens/ - Lens - The free, smart desktop application for managing Kubernetes clusters
 
 #
 # General
