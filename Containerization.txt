@@ -17,6 +17,8 @@ https://github.com/garden-io/garden - Development orchestrator for Kubernetes, c
 https://github.com/aylei/kubectl-debug - Debug your pod by a new container with every troubleshooting tools pre-installed
 https://github.com/derailed/k9s - Kubernetes CLI To Manage Your Clusters In Style!
 https://github.com/corneliusweig/rakkess - kubectl plugin to show an access matrix for k8s server resources
+https://github.com/derailed/k9s - Kubernetes CLI To Manage Your Clusters In Style! https://k9scli.io
+https://github.com/jonmosco/kube-ps1 - Kubernetes prompt info for bash and zsh
 
 # QA Tests
 https://github.com/zalando/zalenium - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard
