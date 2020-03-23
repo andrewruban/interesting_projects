@@ -7,6 +7,7 @@ https://github.com/similarweb/finala - A resource cloud scanner that analyzes an
 
 https://tutorialsdojo.com/aws-cheat-sheets/ - AWS cheat sheets were created to give you a bird's eye view of the important AWS services that you need to know by heart to be able to pass the very tough AWS Certified Solutions Architect Associate exam
 
+https://github.com/andresriancho/enumerate-iam - Found a set of AWS credentials and have no idea which permissions it might have?
 #
 # GCP
 #
