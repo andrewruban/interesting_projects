@@ -64,6 +64,7 @@ https://github.com/ibuildthecloud/klum - Kubernetes Lazy User Manager
 https://github.com/astefanutti/kubebox - Terminal and Web console for Kubernetes https://kube.sh
 https://github.com/johanhaleby/kubetail - Bash script to tail Kubernetes logs from multiple pods at the same time 
 https://github.com/hjacobs/kube-resource-report - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML
+https://github.com/nutellinoit/kubenvz - Kubectl, Kustomize, Helm and Helmfile version manager
 
 # k8s - GKE 
 https://github.com/doitintl/kubeip - Assign static external IPs from predefined pool of external IP addresses to Google GKE nodes so your customers could whitelist them https://kubeip.com
