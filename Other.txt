@@ -68,3 +68,8 @@ https://github.com/mxssl/tg-captcha-bot/ - Telegram Сaptcha Bot
 https://github.com/timgrossmann/InstaPy - Tool for automated Instagram interactions
 https://github.com/instagrambot/instabot
 https://github.com/instabot-py/instabot.py
+
+# ---------------------------------------------------------
+# Writing
+# ---------------------------------------------------------
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet - Markdown Cheatsheet
