@@ -1,27 +1,29 @@
-##########################
-# Terraform utils        #
-##########################
+# ------------------------------------------
+# Terraform       
+# ------------------------------------------
 
 # Code style 
 https://github.com/eerkunt/terraform-compliance - a lightweight, security focused, BDD test framework against terraform. 
-
 https://github.com/terraform-linters/tflint - TFLint is a Terraform linter focused on possible errors, best practices, etc. 
 (Terraform >= 0.12)
-
 https://github.com/camptocamp/terraboard - A web dashboard to inspect Terraform States
-
 https://github.com/segmentio/terraform-docs - Generate documentation from Terraform modules in various output formats
-
 https://github.com/antonbabenko/pre-commit-terraform - pre-commit git hooks to take care of Terraform configurations
-
 https://github.com/cesar-rodriguez/terrascan - Collection of security and best practice test for static code analysis of terraform templates
-
 https://github.com/wayfair/terrafirma - A static analysis tool for Terraform plans.
 
+#
 # Security 
+#
 https://github.com/liamg/tfsec - Static analysis powered security scanner for your terraform code
-
 https://github.com/rubelw/terraform-validator - https://github.com/rubelw/terraform-validator
 
+#
 # Infra tests
+#
 https://github.com/gruntwork-io/terratest - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. https://terratest.gruntwork.io/
+
+#
+# Other
+#
+https://github.com/antonbabenko/terraform-cost-estimation - Anonymized, secure, and free Terraform cost estimation based on Terraform plan (0.12+) or Terraform state (any version)
