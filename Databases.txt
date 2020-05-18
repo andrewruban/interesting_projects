@@ -2,3 +2,8 @@
 # Online databases
 #
 https://easydb.io/ - A one-click database. No server required.
+
+#
+# MongoDB
+#
+https://github.com/mongodb-js/compass - The GUI for MongoDB. https://mongodb.com/compass
