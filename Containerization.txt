@@ -21,6 +21,7 @@ https://github.com/derailed/k9s - Kubernetes CLI To Manage Your Clusters In Styl
 https://github.com/jonmosco/kube-ps1 - Kubernetes prompt info for bash and zsh
 https://github.com/ahmetb/kubectl-aliases - Programmatically generated handy kubectl aliases.
 https://github.com/johanhaleby/kubetail - Bash script to tail Kubernetes logs from multiple pods at the same time
+https://github.com/ahmetb/kubectl-tree - kubectl plugin to browse Kubernetes object hierarchies as a tree
 
 # QA Tests
 https://github.com/zalando/zalenium - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard
