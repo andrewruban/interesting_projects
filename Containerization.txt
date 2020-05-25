@@ -38,6 +38,9 @@ https://github.com/octarinesec/kube-scan - kube-scan: Octarine k8s cluster risk 
 
 # k8s architecture
 https://github.com/learnk8s/kubernetes-production-best-practices - A checklist of Kubernetes best practices to help you release to production
+https://github.com/FairwindsOps/polaris - Validation of best practices in your Kubernetes clusters
+https://github.com/bridgecrewio/checkov - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes and other infrastructure-as-code-languages with Checkov by Bridgecrew
+https://github.com/digitalocean/clusterlint A best practices checker for Kubernetes clusters
 
 #
 # k8s for development
