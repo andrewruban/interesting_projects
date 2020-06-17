@@ -58,6 +58,8 @@ https://github.com/kubernetes/community/tree/master/icons
 # k8s fun
 https://github.com/storax/kubedoom - Kill Kubernetes pods by playing Id's DOOM!
 
+# k8s - visualization
+https://github.com/cloud-ark/kubeplus - kubectl plugins to visualize and monitor Kubernetes resource relationships https://cloudark.io/
 
 #
 # k8s - other
