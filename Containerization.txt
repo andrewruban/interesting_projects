@@ -64,6 +64,7 @@ https://github.com/cloud-ark/kubeplus - kubectl plugins to visualize and monitor
 #
 # k8s - other
 #
+https://kubezilla.com/tools/ - Kubetools – Curated List of Kubernetes Tools
 https://github.com/instrumenta/kubeval - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 https://github.com/wercker/stern - Multi pod and container log tailing for Kubernetes
 https://github.com/ahmetb/kubectx - Switch faster between clusters and namespaces in kubectl https://kubectx.dev
