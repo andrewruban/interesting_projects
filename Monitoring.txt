@@ -8,7 +8,7 @@
 
 https://github.com/devopsprodigy/kubegraf - Grafana-plugin for k8s' monitoring
 https://github.com/lensapp/lens/ - Lens - The free, smart desktop application for managing Kubernetes clusters
-
+https://github.com/bloomberg/goldpinger - Goldpinger makes calls between its instances to monitor your networking. It runs as a DaemonSet on Kubernetes and produces Prometheus metrics that can be scraped, visualised and alerted on.
 #
 # General
 #
