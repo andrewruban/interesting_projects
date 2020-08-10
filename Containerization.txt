@@ -52,6 +52,7 @@ https://github.com/telepresenceio/telepresence - Local development against a rem
 #
 https://github.com/vmware-tanzu/velero - Backup and migrate Kubernetes applications and their persistent volumes
 https://github.com/stashed/stash      - by AppsCode is a cloud native data backup and recovery solution for Kubernetes workloads
+https://github.com/miracle2k/k8s-snapshots - Automatic Volume Snapshots on Kubernetes
 
 # K8s documentation icons
 https://github.com/kubernetes/community/tree/master/icons 
