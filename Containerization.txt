@@ -64,6 +64,12 @@ https://github.com/storax/kubedoom - Kill Kubernetes pods by playing Id's DOOM!
 https://github.com/cloud-ark/kubeplus - kubectl plugins to visualize and monitor Kubernetes resource relationships https://cloudark.io/
 
 #
+# K8s debug
+#
+https://github.com/box/kube-iptables-tailer - is a service that gives you better visibility on networking issues in your Kubernetes cluster
+
+
+#
 # k8s - other
 #
 https://kubezilla.com/tools/ - Kubetools – Curated List of Kubernetes Tools
