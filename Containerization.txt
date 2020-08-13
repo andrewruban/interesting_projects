@@ -62,6 +62,8 @@ https://github.com/storax/kubedoom - Kill Kubernetes pods by playing Id's DOOM!
 
 # k8s - visualization
 https://github.com/cloud-ark/kubeplus - kubectl plugins to visualize and monitor Kubernetes resource relationships https://cloudark.io/
+https://github.com/benc-uk/kubeview - Kubernetes cluster visualiser and visual explorer
+https://github.com/weaveworks/scope - Troubleshooting & Monitoring for Docker & Kubernetes
 
 #
 # K8s debug
