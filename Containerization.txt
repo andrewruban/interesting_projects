@@ -90,6 +90,12 @@ https://github.com/asobti/kube-monkey - An implementation of Netflix's Chaos Mon
 # k8s - GKE 
 https://github.com/doitintl/kubeip - Assign static external IPs from predefined pool of external IP addresses to Google GKE nodes so your customers could whitelist them https://kubeip.com
 
+#
+# HELM
+#
+https://github.com/helm/helm-2to3 - Helm v3 plugin which migrates and cleans up Helm v2 configuration and releases in-place to Helm v3
+
+
 ##########
 # DOCKER #
 ##########
