@@ -11,7 +11,7 @@ https://github.com/segmentio/terraform-docs - Generate documentation from Terraf
 https://github.com/antonbabenko/pre-commit-terraform - pre-commit git hooks to take care of Terraform configurations
 https://github.com/cesar-rodriguez/terrascan - Collection of security and best practice test for static code analysis of terraform templates
 https://github.com/wayfair/terrafirma - A static analysis tool for Terraform plans.
-
+https://github.com/versus/terraform-switcher  - The tfswitch command line tool lets you switch between different versions of terraform
 #
 # Security 
 #
