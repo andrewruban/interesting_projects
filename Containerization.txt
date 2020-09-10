@@ -74,6 +74,7 @@ https://github.com/box/kube-iptables-tailer - is a service that gives you better
 #
 # k8s - other
 #
+https://k8syaml.com/ - k8s yaml generator
 https://kubezilla.com/tools/ - Kubetools – Curated List of Kubernetes Tools
 https://github.com/instrumenta/kubeval - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 https://github.com/wercker/stern - Multi pod and container log tailing for Kubernetes
