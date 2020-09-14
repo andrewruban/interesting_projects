@@ -87,6 +87,9 @@ https://github.com/hjacobs/kube-resource-report - Report Kubernetes cluster and 
 https://github.com/nutellinoit/kubenvz - Kubectl, Kustomize, Helm and Helmfile version manager
 https://kubecost.com/ - Kubecost gives you visibility into your Kubernetes resources to reduce spend and prevent resource-based outages
 https://github.com/asobti/kube-monkey - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
+https://github.com/ContainerSolutions/kubernetes-examples - A reference repository of YAML with canonical and as-simple-as-possible demonstrations of kubernetes functionality and features.
+
+
 
 # k8s - GKE 
 https://github.com/doitintl/kubeip - Assign static external IPs from predefined pool of external IP addresses to Google GKE nodes so your customers could whitelist them https://kubeip.com
