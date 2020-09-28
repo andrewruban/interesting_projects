@@ -103,7 +103,7 @@ https://github.com/doitintl/kubeip - Assign static external IPs from predefined 
 # HELM
 #
 https://github.com/helm/helm-2to3 - Helm v3 plugin which migrates and cleans up Helm v2 configuration and releases in-place to Helm v3
-
+https://github.com/norwoodj/helm-docs - The helm-docs tool generates automatic documentation from helm charts into a markdown file
 
 ##########
 # DOCKER #
