@@ -93,7 +93,7 @@ https://github.com/infracost/infracost/ - Infracost shows hourly and monthly cos
 https://github.com/asobti/kube-monkey - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 https://github.com/ContainerSolutions/kubernetes-examples - A reference repository of YAML with canonical and as-simple-as-possible demonstrations of kubernetes functionality and features.
 https://github.com/r0hi7/k8s-In-30Mins - small guide/cheat sheet to quickly setup and run application with Kubernetes and deploy a very simple application on single workload VM
-
+https://github.com/jetstack/version-checker - version-checker is a Kubernetes utility for observing the current versions of images running in the cluster
 
 
 # k8s - GKE 
