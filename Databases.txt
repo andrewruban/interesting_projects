@@ -13,3 +13,8 @@ https://github.com/mongodb-js/compass - The GUI for MongoDB. https://mongodb.com
 # SQL
 #
 https://github.com/treffynnon/sqlstyle.guide - SQL Style Guide
+
+#
+# Other
+#
+https://github.com/hellofresh/klepto# - Klepto is a tool that copies and anonymises data from other sources.can use Klepto to get production data but without sensitive customer information for your testing or local debugging.
