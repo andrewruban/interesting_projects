@@ -21,12 +21,10 @@ https://github.com/netflix/chaosmonkey - Chaos Monkey is a resiliency tool that 
 # Shell
 # ---------------------------------------------------------
 https://direnv.net/ - is an extension for your shell. It augments existing shells with a new feature that can load and unload environment variables depending on the current directory.
-
 https://github.com/asciinema/asciinema - Terminal session recorder  ( https://asciinema.org )
-
 https://github.com/kellyjonbrazil/jc - This tool serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
-
 https://github.com/guumaster/hostctl - Manage your hosts file like a pro!
+https://github.com/muesli/duf - Disk Usage/Free Utility (Linux, BSD, macOS & Windows)
 
 # ZSH plugins
 git
