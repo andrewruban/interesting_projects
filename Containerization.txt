@@ -96,9 +96,12 @@ https://github.com/ContainerSolutions/kubernetes-examples - A reference reposito
 https://github.com/r0hi7/k8s-In-30Mins - small guide/cheat sheet to quickly setup and run application with Kubernetes and deploy a very simple application on single workload VM
 https://github.com/jetstack/version-checker - version-checker is a Kubernetes utility for observing the current versions of images running in the cluster
 https://github.com/stackrox/kube-linter - kube linter
+https://github.com/bitnami-labs/kubewatch - Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels ( to Slack etc)
 
+#
 # k8s - GKE 
-https://github.com/doitintl/kubeip - Assign static external IPs from predefined pool of external IP addresses to Google GKE nodes so your customers could whitelist them https://kubeip.com
+#
+https://github.com/doitintl/kubeip - Assign static external IPs from predefined pool of external IP addresses to Google GKE nodes so your customers could whitelist them https://kubeip.com 
 
 #
 # HELM
