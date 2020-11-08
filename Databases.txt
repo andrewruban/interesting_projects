@@ -18,3 +18,8 @@ https://github.com/treffynnon/sqlstyle.guide - SQL Style Guide
 # Other
 #
 https://github.com/hellofresh/klepto# - Klepto is a tool that copies and anonymises data from other sources.can use Klepto to get production data but without sensitive customer information for your testing or local debugging.
+
+#
+# Postgres
+#
+https://github.com/postgres-ai/postgres-checkup - diagnostics tool for a deep analysis of a Postgres database health.
