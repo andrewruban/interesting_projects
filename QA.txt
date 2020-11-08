@@ -10,3 +10,8 @@ https://github.com/mherrmann/helium - Selenium-python, 50% easier. Helium is the
 # Cloud infra testing
 #
 https://github.com/Netflix/SimianArmy - Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+
+#
+# LoadTesting
+#
+https://github.com/ikruglov/slapper - Simple load testing tool with real-time updated histogram of request timings
