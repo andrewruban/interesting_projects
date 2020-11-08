@@ -13,6 +13,7 @@ https://github.com/mongodb-js/compass - The GUI for MongoDB. https://mongodb.com
 # SQL
 #
 https://github.com/treffynnon/sqlstyle.guide - SQL Style Guide
+https://github.com/jarulraj/sqlcheck - automatically detects common SQL anti-patterns 
 
 #
 # Other
@@ -24,3 +25,9 @@ https://github.com/hellofresh/klepto# - Klepto is a tool that copies and anonymi
 #
 https://github.com/postgres-ai/postgres-checkup - diagnostics tool for a deep analysis of a Postgres database health.
 https://github.com/NikolayS/postgres_dba - The missing set of useful tools for Postgres DBA and mere mortals.
+https://github.com/dataegret/pg-utils 
+https://github.com/ioguix/pgsql-bloat-estimation
+https://github.com/pgexperts/pgx_scripts 
+https://github.com/darold/pgcluu - PostgreSQL Cluster utilization
+https://github.com/ankane/pghero - A performance dashboard for Postgres
+https://github.com/heroku/heroku-pg-extras - A Heroku CLI plugin providing shortcuts to common Postgres introspection queries.
