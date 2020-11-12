@@ -29,9 +29,10 @@ https://github.com/gruntwork-io/terratest - Terratest is a Go library that makes
 # Other
 #
 https://github.com/antonbabenko/terraform-cost-estimation - Anonymized, secure, and free Terraform cost estimation based on Terraform plan (0.12+) or Terraform state (any version)
+https://github.com/aaratn/terraenv - Terraform & Terragrunt version manager 
 
 #
 # Terraform wrappers
 #
-https://github.com/aaratn/terraenv - Terraform & Terragrunt version manager 
+https://github.com/gruntwork-io/terragrunt - wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
 https://github.com/boltops-tools/terraspace - Terraform Framework that optimizes for infrastructure-as-code happiness. It provides an organized structure, conventions over configurations, keeps your code DRY, and adds convenient tooling
