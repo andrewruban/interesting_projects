@@ -81,3 +81,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet - Markdown Chea
 # SSO
 #
 https://github.com/authelia/authelia - Authelia is an open-source authentication and authorization server providing 2-factor authentication and single sign-on (SSO) for your applications via a web portal.
+
+#
+# API
+#
+https://github.com/hoppscotch/hoppscotch - A free, fast and beautiful API request builder
