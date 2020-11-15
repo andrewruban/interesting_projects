@@ -6,6 +6,7 @@ https://github.com/similarweb/finala - A resource cloud scanner that analyzes an
 https://tutorialsdojo.com/aws-cheat-sheets/ - AWS cheat sheets were created to give you a bird's eye view of the important AWS services that you need to know by heart to be able to pass the very tough AWS Certified Solutions Architect Associate exam
 https://github.com/andresriancho/enumerate-iam - Found a set of AWS credentials and have no idea which permissions it might have?
 https://github.com/iann0036/AWSConsoleRecorder - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
+https://github.com/iann0036/former2 - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources
 #
 # GCP
 #
