@@ -97,6 +97,7 @@ https://github.com/r0hi7/k8s-In-30Mins - small guide/cheat sheet to quickly setu
 https://github.com/jetstack/version-checker - version-checker is a Kubernetes utility for observing the current versions of images running in the cluster
 https://github.com/stackrox/kube-linter - kube linter
 https://github.com/bitnami-labs/kubewatch - Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels ( to Slack etc)
+https://github.com/stefanprodan/podinfo - Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes.
 
 #
 # k8s - GKE 
@@ -109,14 +110,15 @@ https://github.com/doitintl/kubeip - Assign static external IPs from predefined 
 https://github.com/helm/helm-2to3 - Helm v3 plugin which migrates and cleans up Helm v2 configuration and releases in-place to Helm v3
 https://github.com/norwoodj/helm-docs - The helm-docs tool generates automatic documentation from helm charts into a markdown file
 
-##########
-# DOCKER #
-##########
+# ==========================
+# DOCKER 
+# ==========================
 https://github.com/wagoodman/dive - A tool for exploring each layer in a docker image
 
 https://github.com/idestis/gort/ - Simple HTTP handler to receive remote calls to run scripts bundled in Docker containers
 
 https://github.com/jesseduffield/lazydocker - The lazier way to manage everything docker
+
 
 
 #
