@@ -7,6 +7,8 @@ https://tutorialsdojo.com/aws-cheat-sheets/ - AWS cheat sheets were created to g
 https://github.com/andresriancho/enumerate-iam - Found a set of AWS credentials and have no idea which permissions it might have?
 https://github.com/iann0036/AWSConsoleRecorder - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 https://github.com/iann0036/former2 - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources
+https://github.com/aws/amazon-ec2-instance-selector - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory.
+
 #
 # GCP
 #
