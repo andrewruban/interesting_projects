@@ -14,11 +14,13 @@ https://github.com/wayfair/terrafirma - A static analysis tool for Terraform pla
 https://github.com/versus/terraform-switcher  - The tfswitch command line tool lets you switch between different versions of terraform
 https://github.com/tfutils/tfenv - Terraform version manager inspired by rbenv
 https://github.com/antonbabenko/terrapin - Terrapin is a Terraform module generator which supports creation of Terraform configuration files, automated tests, usage examples and documentation
+
 #
 # Security 
 #
 https://github.com/liamg/tfsec - Static analysis powered security scanner for your terraform code
 https://github.com/rubelw/terraform-validator - https://github.com/rubelw/terraform-validator
+https://github.com/tfsec/tfsec - uses static analysis of your terraform templates to spot potential security issues. Now with terraform v0.12+ support.
 
 #
 # Infra tests
