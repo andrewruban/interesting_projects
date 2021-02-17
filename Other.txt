@@ -25,6 +25,7 @@ https://github.com/asciinema/asciinema - Terminal session recorder  ( https://as
 https://github.com/kellyjonbrazil/jc - This tool serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
 https://github.com/guumaster/hostctl - Manage your hosts file like a pro!
 https://github.com/muesli/duf - Disk Usage/Free Utility (Linux, BSD, macOS & Windows)
+https://github.com/orf/gping - ping with graph
 
 # ZSH plugins
 git
