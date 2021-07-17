@@ -74,7 +74,7 @@ https://github.com/weaveworks/scope - Troubleshooting & Monitoring for Docker & 
 # K8s debug
 #
 https://github.com/box/kube-iptables-tailer - is a service that gives you better visibility on networking issues in your Kubernetes cluster
-
+https://github.com/eldadru/ksniff - A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster.
 
 #
 # k8s - other
