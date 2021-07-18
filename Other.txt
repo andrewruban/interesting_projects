@@ -73,6 +73,10 @@ https://github.com/timgrossmann/InstaPy - Tool for automated Instagram interacti
 https://github.com/instagrambot/instabot
 https://github.com/instabot-py/instabot.py
 
+# Tinder
+https://github.com/joelbarmettlerUZH/auto-tinder - Auto-tinder was created to train an API using Tensorflow and Python3 that learns your interests and automatically plays the tinder swiping-game for you.
+https://github.com/kar97k/tinder-swipe-bot - Открывает тиндер в браузере, и в консоли разработчика и вставляем скрипт. Он начнёт ставить лайки девушкам, которые удовлетворяут двум критериям:Есть 2 фотографии + Есть описание профиля. 
+
 # ---------------------------------------------------------
 # Writing
 # ---------------------------------------------------------
