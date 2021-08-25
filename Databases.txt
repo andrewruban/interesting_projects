@@ -32,3 +32,4 @@ https://github.com/pgexperts/pgx_scripts
 https://github.com/darold/pgcluu - PostgreSQL Cluster utilization
 https://github.com/ankane/pghero - A performance dashboard for Postgres
 https://github.com/heroku/heroku-pg-extras - A Heroku CLI plugin providing shortcuts to common Postgres introspection queries.
+https://github.com/powa-team/pg_qualstats - pg_qualstats is a PostgreSQL extension keeping statistics on predicates found in WHERE statements and JOIN clauses.
