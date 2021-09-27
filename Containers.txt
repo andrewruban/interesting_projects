@@ -49,6 +49,7 @@ https://github.com/learnk8s/kubernetes-production-best-practices - A checklist o
 https://github.com/FairwindsOps/polaris - Validation of best practices in your Kubernetes clusters
 https://github.com/bridgecrewio/checkov - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes and other infrastructure-as-code-languages with Checkov by Bridgecrew
 https://github.com/digitalocean/clusterlint A best practices checker for Kubernetes clusters
+https://github.com/diegolnasc/kubernetes-best-practices - kubernetes-best-practices
 
 #
 # k8s for development
