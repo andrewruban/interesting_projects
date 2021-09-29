@@ -112,6 +112,14 @@ https://github.com/utkuozdemir/pv-migrate - CLI tool/kubectl plugin to easily mi
 https://github.com/doitintl/kubeip - Assign static external IPs from predefined pool of external IP addresses to Google GKE nodes so your customers could whitelist them https://kubeip.com 
 
 #
+# k8s - events monitoring
+#
+https://github.com/salesforce/sloop - Sloop monitors Kubernetes, recording histories of events and resource state changes and providing visualizations to aid in debugging past events.
+https://github.com/caicloud/event_exporter - Kubernetes events to Prometheus bridge.
+https://github.com/bitnami-labs/kubewatch -  is a Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels. Run it in your k8s cluster, and you will get event notifications through webhooks.
+https://github.com/heptiolabs/eventrouter - The event router serves as an active watcher of event resource in the kubernetes system, which takes those events and pushes them to a user specified sink. 
+
+#
 # HELM
 #
 https://github.com/helm/helm-2to3 - Helm v3 plugin which migrates and cleans up Helm v2 configuration and releases in-place to Helm v3
