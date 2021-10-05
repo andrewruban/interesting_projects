@@ -36,6 +36,7 @@ https://github.com/zalando/zalenium - A flexible and scalable container based Se
 https://github.com/stackrox/kube-linter - Static analysis for Kubernetes
 https://github.com/aquasecurity/kube-bench - is tool that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark
 https://github.com/aquasecurity/kube-hunter - hunts for security weaknesses in Kubernetes clusters
+https://github.com/armosec/kubescape - a first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by NSA and CISA
 https://habr.com/ru/company/flant/blog/465141/ - 33+ инструмента для безопасности Kubernetes
 https://habr.com/ru/company/flant/blog/436300/ - security recommendations
 https://github.com/kabachook/k8s-security - Kubernetes security notes and best practices
