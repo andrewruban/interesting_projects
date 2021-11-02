@@ -33,6 +33,7 @@ https://github.com/zalando/zalenium - A flexible and scalable container based Se
 #
 # Kubernetes Security
 #
+https://github.com/Vinum-Security/kubernetes-security-checklist - Kubernetes Security Checklist and Requirements
 https://github.com/stackrox/kube-linter - Static analysis for Kubernetes
 https://github.com/aquasecurity/kube-bench - is tool that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark
 https://github.com/aquasecurity/kube-hunter - hunts for security weaknesses in Kubernetes clusters
