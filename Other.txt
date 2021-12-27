@@ -45,6 +45,7 @@ https://github.com/asdf-vm/asdf - Extendable version manager with support for Ru
 # Web
 # ---------------------------------------------------------
 https://httpie.org/ - is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
+https://github.com/pete911/certinfo - Similar to openssl x509 -in <file> -text command, but handles chains, multiple files and TCP addresses. TLS/SSL version prints as well when using TCP address argument.
 
 #
 # New work
