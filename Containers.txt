@@ -14,6 +14,7 @@ https://github.com/garden-io/garden - Development orchestrator for Kubernetes, c
 #
 # kubectl
 #
+https://github.com/itaysk/kubectl-neat - Remove clutter from Kubernetes manifests to make them more readable.
 https://github.com/sbstp/kubie - kubie is an alternative to kubectx, kubens and the k on prompt modification script.
 https://github.com/aylei/kubectl-debug - Debug your pod by a new container with every troubleshooting tools pre-installed
 https://github.com/derailed/k9s - Kubernetes CLI To Manage Your Clusters In Style!
