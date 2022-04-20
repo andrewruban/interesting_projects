@@ -1,31 +1,32 @@
 
-#
+# ---------------------------------------------------------
 # Message brokers
-#
+# ---------------------------------------------------------
 
 https://github.com/batchcorp/plumber - plumber is a CLI devtool for inspecting, piping, massaging and redirecting data in message systems like Kafka, RabbitMQ , GCP PubSub
 
-#
+# ---------------------------------------------------------
 # Load testing
-#
+# ---------------------------------------------------------
 
 https://github.com/yandex/yandex-tank - Load and performance benchmark tool
 https://github.com/tsenart/vegeta - HTTP load testing tool and library. It's over 9000! 
 https://gatling.io/ - Async Scala-Akka-Netty based Load Test Tool 
 
-#
+# ---------------------------------------------------------
 # Screen sharing
-#
+# ---------------------------------------------------------
 https://github.com/screego/server - screen sharing for developers
 
-#
+# ---------------------------------------------------------
 # Testing
-#
+# ---------------------------------------------------------
 https://github.com/netflix/chaosmonkey - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 
 # ---------------------------------------------------------
 # Shell
 # ---------------------------------------------------------
+https://github.com/alexellis/arkade - arkade is how developers install the latest versions of their favourite tools and Kubernetes apps.
 https://direnv.net/ - is an extension for your shell. It augments existing shells with a new feature that can load and unload environment variables depending on the current directory.
 https://github.com/asciinema/asciinema - Terminal session recorder  ( https://asciinema.org )
 https://github.com/kellyjonbrazil/jc - This tool serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
@@ -47,22 +48,22 @@ https://github.com/asdf-vm/asdf - Extendable version manager with support for Ru
 https://httpie.org/ - is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
 https://github.com/pete911/certinfo - Similar to openssl x509 -in <file> -text command, but handles chains, multiple files and TCP addresses. TLS/SSL version prints as well when using TCP address argument.
 
-#
+# ---------------------------------------------------------
 # New work
-#
+# ---------------------------------------------------------
 https://github.com/bregman-arie/devops-interview-questions - DevOps Interview Questions 
 
-#
+# ---------------------------------------------------------
 # Manage dependencies
-#
+# ---------------------------------------------------------
 https://dependabot.com/
 
-#
+# ---------------------------------------------------------
 # Converter
-#
+# ---------------------------------------------------------
 https://github.com/ritz078/transform - A polyglot web converter. https://transform.tools
 
-#
+# ---------------------------------------------------------
 # Diagrams/Schema/Flowcharts
 #
 https://github.com/alyssaxuu/flowy - The minimal javascript library to create flowcharts
@@ -89,12 +90,12 @@ https://github.com/kar97k/tinder-swipe-bot - Открывает тиндер в 
 # ---------------------------------------------------------
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet - Markdown Cheatsheet
 
-#
+# ---------------------------------------------------------
 # SSO
-#
+# ---------------------------------------------------------
 https://github.com/authelia/authelia - Authelia is an open-source authentication and authorization server providing 2-factor authentication and single sign-on (SSO) for your applications via a web portal.
 
-#
+# ---------------------------------------------------------
 # API
-#
+# ---------------------------------------------------------
 https://github.com/hoppscotch/hoppscotch - A free, fast and beautiful API request builder
