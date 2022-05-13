@@ -14,6 +14,8 @@ https://github.com/wayfair/terrafirma - A static analysis tool for Terraform pla
 https://github.com/versus/terraform-switcher  - The tfswitch command line tool lets you switch between different versions of terraform
 https://github.com/tfutils/tfenv - Terraform version manager inspired by rbenv
 https://github.com/antonbabenko/terrapin - Terrapin is a Terraform module generator which supports creation of Terraform configuration files, automated tests, usage examples and documentation
+https://github.com/terraform-docs/terraform-docs - A utility to generate documentation from Terraform modules in various output formats.
+
 
 #
 # Security 
