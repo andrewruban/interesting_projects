@@ -2,3 +2,4 @@
 https://github.com/wulkano/kap - An open-source screen recorder built with web technology
 https://www.macbartender.com/ - Bartender is an award-winning app for macOS that superpowers your menu bar, giving you total control over your menu bar items, what's displayed, and when, with menu bar items only showing when you need them.
 https://www.obdev.at/products/littlesnitch/index.html - makes these Internet connections visible and puts you back in control!
+https://matthewpalmer.net/rocket/ - Mind-blowing emoji on your Mac.
