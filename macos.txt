@@ -1,2 +1,3 @@
-# Screen recorder
+
 https://github.com/wulkano/kap - An open-source screen recorder built with web technology
+https://www.macbartender.com/ - Bartender is an award-winning app for macOS that superpowers your menu bar, giving you total control over your menu bar items, what's displayed, and when, with menu bar items only showing when you need them.
