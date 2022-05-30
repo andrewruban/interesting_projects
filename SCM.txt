@@ -2,6 +2,8 @@
 # Source control management
 #
 https://github.com/awslabs/git-secrets - Prevents you from committing secrets and credentials into git repositories
+https://github.com/wfxr/forgit - Utility tool for using git interactively
+https://github.com/junegunn/fzf - fzf is a general-purpose command-line fuzzy finder.
 
 #
 # Interesting 
