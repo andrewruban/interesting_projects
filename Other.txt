@@ -9,6 +9,7 @@ https://github.com/adrienverge/yamllint - A linter for YAML files.
 # ---------------------------------------------------------
 
 https://github.com/batchcorp/plumber - plumber is a CLI devtool for inspecting, piping, massaging and redirecting data in message systems like Kafka, RabbitMQ , GCP PubSub
+https://github.com/redpanda-data/kowl - Kowl is a web application that helps you manage and debug your Kafka/Redpanda workloads effortlessly.
 
 # ---------------------------------------------------------
 # Load testing
