@@ -40,6 +40,7 @@ https://github.com/kellyjonbrazil/jc - This tool serializes the output of popula
 https://github.com/guumaster/hostctl - Manage your hosts file like a pro!
 https://github.com/muesli/duf - Disk Usage/Free Utility (Linux, BSD, macOS & Windows)
 https://github.com/orf/gping - ping with graph
+https://github.com/arsham/blush - like grep but with blush you can highlight matches with any colours of your choice.
 
 # ZSH plugins
 git
