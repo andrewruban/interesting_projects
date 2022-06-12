@@ -18,3 +18,13 @@ https://github.com/skydive-project/skydive - An open source real-time network to
 # Devops dashboards
 #
 https://github.com/Hygieia/Hygieia - CapitalOne DevOps Dashboard http://hygieia.github.io/Hygieia
+
+#
+# Alerting
+#
+https://github.com/prymitive/karma - Alert dashboard for Prometheus Alertmanager.
+
+#
+# On-call
+#
+https://github.com/sergiitk/pagerbeauty - Add concise PagerDuty on-call widget to your monitoring dashboard
