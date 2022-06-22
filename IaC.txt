@@ -6,6 +6,7 @@
 https://github.com/eerkunt/terraform-compliance - a lightweight, security focused, BDD test framework against terraform. 
 https://github.com/terraform-linters/tflint - TFLint is a Terraform linter focused on possible errors, best practices, etc. 
 (Terraform >= 0.12)
+github.com/terraform-linters/tflint-ruleset-aws - TFLint ruleset plugin for Terraform AWS Provider
 https://github.com/camptocamp/terraboard - A web dashboard to inspect Terraform States
 https://github.com/segmentio/terraform-docs - Generate documentation from Terraform modules in various output formats
 https://github.com/antonbabenko/pre-commit-terraform - pre-commit git hooks to take care of Terraform configurations
