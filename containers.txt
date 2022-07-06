@@ -124,11 +124,14 @@ https://github.com/caicloud/event_exporter - Kubernetes events to Prometheus bri
 https://github.com/bitnami-labs/kubewatch -  is a Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels. Run it in your k8s cluster, and you will get event notifications through webhooks.
 https://github.com/heptiolabs/eventrouter - The event router serves as an active watcher of event resource in the kubernetes system, which takes those events and pushes them to a user specified sink. 
 
-#
+# ==========================
 # HELM
-#
+# ==========================
 https://github.com/helm/helm-2to3 - Helm v3 plugin which migrates and cleans up Helm v2 configuration and releases in-place to Helm v3
 https://github.com/norwoodj/helm-docs - The helm-docs tool generates automatic documentation from helm charts into a markdown file
+https://github.com/databus23/helm-diff  -  Helm plugin giving your a preview of what a helm upgrade would change 
+https://github.com/helmfile/helmfile - Helmfile is a declarative spec for deploying helm charts
+
 
 # ==========================
 # DOCKER 
