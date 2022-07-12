@@ -137,12 +137,9 @@ https://github.com/helmfile/helmfile - Helmfile is a declarative spec for deploy
 # DOCKER 
 # ==========================
 https://github.com/wagoodman/dive - A tool for exploring each layer in a docker image
-
 https://github.com/idestis/gort/ - Simple HTTP handler to receive remote calls to run scripts bundled in Docker containers
-
 https://github.com/jesseduffield/lazydocker - The lazier way to manage everything docker
-
-
+https://github.com/mrhavens/Dedockify - show Dockerfile from docker image ID
 
 #
 # Docker containers security
