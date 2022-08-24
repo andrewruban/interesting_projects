@@ -1,21 +1,31 @@
-# ---------------------------------------------------------
-# Python
-# ---------------------------------------------------------
+
+#
+# Awesome python
+#
+https://github.com/vinta/awesome-python 
+
+#
+# Interesting
+#
+https://github.com/soimort/you-get - is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
+https://github.com/Textualize/rich - Rich is a Python library for rich text and beautiful formatting in the terminal.
 https://nbedos.github.io/termtosvg/ - is a Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations
 https://www.plynth.net/ - thread-safe HTML/CSS/Python GUI framework 
 https://github.com/lk-geimfari/mimesis - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages
 https://github.com/docopt/docopt - creates beautiful command-line interfaces
 https://github.com/pypa/pipenv -  automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your Pipfile as you install/uninstall packages. It also generates the ever-important Pipfile.lock, which is used to produce deterministic builds.
-
-# Pandas linter
-https://github.com/dovpanda-dev/dovpanda - Directions overlay for working with pandas in an analysis environment
-
+https://github.com/home-assistant/core - Hоmе Assistant с открытым исходным кодом, которая ставит на первое место локальный контроль и конфиденциальность. Работает благодаря огромному коммьюнити экспертов и энтузиастов DIY. Идеально подходит для работы на Raspberry Pi или локальном сервере. Используется во многих успешных продуктах, таких как Amazon Alexa и Google Cast.
 https://github.com/spulec/moto - A library that allows you to easily mock out tests based on AWS infrastructure
 
 #
 # Machine Learning
 #
+https://github.com/josephmisiti/awesome-machine-learning - awesome ML
 https://github.com/CorentinJ/Real-Time-Voice-Cloning - По сути, он может «выучить» чей-то голос по 5-секундной записи речи, а затем использовать "выученный" голос, чтобы говорить что угодно.
 https://github.com/ageitgey/face_recognition - может распознавать лица и управлять ими с помощью Python или командной строки. Утверждается, что это самая простая в мире библиотека распознавания лиц
 https://github.com/keras-team/keras - Очень популярный фреймворк машинного обучения на Python. Он предоставляет множество высокоуровневых API-интерфейсов, которые позволяют специалисту по обработке данных обучать deep learning модель с наименьшим количеством кода
 https://github.com/iperov/DeepFaceLab - Он запоминает человеческое лицо и «имплантирует» его в другое видео, чтобы заменить исходное лицо на то, которое нужно добавить. Может быть много этических проблем, но этот проект действительно потрясающий.
+https://github.com/dovpanda-dev/dovpanda - Directions overlay for working with pandas in an analysis environment
+
+
+
