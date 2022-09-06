@@ -108,3 +108,8 @@ https://github.com/authelia/authelia - Authelia is an open-source authentication
 # API
 # ---------------------------------------------------------
 https://github.com/hoppscotch/hoppscotch - A free, fast and beautiful API request builder
+
+# ---------------------------------------------------------
+# VPN
+# ---------------------------------------------------------
+https://github.com/haugene/docker-transmission-openvpn - OpenVPN and Transmission with a configuration where Transmission is running only when OpenVPN has an active tunnel
