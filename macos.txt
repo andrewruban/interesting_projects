@@ -3,4 +3,4 @@ https://github.com/wulkano/kap - An open-source screen recorder built with web t
 https://www.macbartender.com/ - Bartender is an award-winning app for macOS that superpowers your menu bar, giving you total control over your menu bar items, what's displayed, and when, with menu bar items only showing when you need them.
 https://www.obdev.at/products/littlesnitch/index.html - makes these Internet connections visible and puts you back in control!
 https://matthewpalmer.net/rocket/ - Mind-blowing emoji on your Mac.
-
+https://mizage.com/shush/ - идит в трее и умеет по зажиманию fn отключать микрофон. Двойной fn — наоборот: по зажиманию fn включать микрофон. Идеально, чтобы чихнуть или схомячить булочку во время очередного зума
