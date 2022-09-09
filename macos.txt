@@ -4,3 +4,8 @@ https://www.macbartender.com/ - Bartender is an award-winning app for macOS that
 https://www.obdev.at/products/littlesnitch/index.html - makes these Internet connections visible and puts you back in control!
 https://matthewpalmer.net/rocket/ - Mind-blowing emoji on your Mac.
 https://mizage.com/shush/ - идит в трее и умеет по зажиманию fn отключать микрофон. Двойной fn — наоборот: по зажиманию fn включать микрофон. Идеально, чтобы чихнуть или схомячить булочку во время очередного зума
+
+#
+# Screen
+#
+https://justgetflux.com/ - f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
