@@ -16,3 +16,7 @@ https://github.com/czarny/brisync - Synchronize your external display brightness
 #
 https://qotoqot.com/qbserve/ - (not free! )простой и удобоный таймтрекер. На мой взгляд подходит больше для учёта личного времени (посмотреть, где больше всего залипал, сколько времени провёл в редакторе / IDE). Для учёта времени работы над проектами тоже должен подойти, но мне не актуально. В отличие от популярного Timing не требует подписки — один раз покупаешь лицензию и поехали. 
 
+#
+# Video
+#
+https://iina.io/ - The modern media player for macOS.
