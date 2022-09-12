@@ -9,3 +9,4 @@ https://mizage.com/shush/ - идит в трее и умеет по зажима
 # Screen
 #
 https://justgetflux.com/ - f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+https://github.com/czarny/brisync - Synchronize your external display brightness with built-in display.
