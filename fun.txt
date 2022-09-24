@@ -1,7 +1,7 @@
 
 # k8s fun
 https://github.com/gshipley/wild-west-kubernetes - A wild west game to kill pods on kubernetes
-
+https://github.com/waterkube/waterkube - Underwater Archaeology game for Kubernetes
 
 # development
 https://github.com/solarrust/hacker-laws - Законы, теории, принципы и модели, которые полезно знать разработчику
