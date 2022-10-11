@@ -41,3 +41,4 @@ https://github.com/aaratn/terraenv - Terraform & Terragrunt version manager
 #
 https://github.com/gruntwork-io/terragrunt - wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
 https://github.com/boltops-tools/terraspace - Terraform Framework that optimizes for infrastructure-as-code happiness. It provides an organized structure, conventions over configurations, keeps your code DRY, and adds convenient tooling
+https://github.com/dineshba/tf-summarize - is a command-line utility to print the summary of the terraform plan
