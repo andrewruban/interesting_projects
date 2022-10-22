@@ -110,6 +110,7 @@ https://github.com/stackrox/kube-linter - kube linter
 https://github.com/bitnami-labs/kubewatch - Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels ( to Slack etc)
 https://github.com/stefanprodan/podinfo - Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes.
 https://github.com/utkuozdemir/pv-migrate - CLI tool/kubectl plugin to easily migrate the contents of one Kubernetes PersistentVolume[Claim] to another.
+https://github.com/FairwindsOps/pluto - utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases.
 
 #
 # k8s - GKE 
