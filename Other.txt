@@ -42,6 +42,7 @@ https://github.com/muesli/duf - Disk Usage/Free Utility (Linux, BSD, macOS & Win
 https://github.com/orf/gping - ping with graph
 https://github.com/arsham/blush - like grep but with blush you can highlight matches with any colours of your choice.
 https://github.com/sachaos/viddy - modern watch variant
+https://github.com/alexhallam/tv - cross-platform csv pretty printer that uses column styling to maximize viewer enjoyment.
 
 # ZSH plugins
 git
