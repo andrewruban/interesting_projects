@@ -134,39 +134,8 @@ https://github.com/databus23/helm-diff  -  Helm plugin giving your a preview of 
 https://github.com/helmfile/helmfile - Helmfile is a declarative spec for deploying helm charts
 
 
-# ==========================
-# DOCKER 
-# ==========================
-https://github.com/wagoodman/dive - A tool for exploring each layer in a docker image
-https://github.com/idestis/gort/ - Simple HTTP handler to receive remote calls to run scripts bundled in Docker containers
-https://github.com/jesseduffield/lazydocker - The lazier way to manage everything docker
-https://github.com/mrhavens/Dedockify - show Dockerfile from docker image ID
-
-#
-# Docker containers security
-#
-
-https://github.com/docker/docker-bench-security - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
-
-https://github.com/aquasecurity/trivy - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-
-https://github.com/coreos/clair - Vulnerability Static Analysis for Containers
-
-https://github.com/cilium/cilium - API Aware Networking and Security using BPF and XDP
-
-https://github.com/anchore/anchore-engine - A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification
-
-https://github.com/eliasgranderubio/dagda - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities
-
-https://github.com/theupdateframework/notary - Notary is a project that allows anyone to have trust over arbitrary collections of data
-
-https://github.com/falcosecurity/falco - Falco: Container Native Runtime Security https://falco.org
-
-https://github.com/banyanops/collector - A framework for Static Analysis of Docker container images
-
 #
 # Other
 #
-https://github.com/alexei-led/pumba - Chaos testing and network emulation tool for Docker.
 
 https://github.com/GoogleContainerTools/jib - Build container images for your Java applications.
