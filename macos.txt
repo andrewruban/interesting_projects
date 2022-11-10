@@ -10,8 +10,32 @@ https://mizage.com/shush/ - идит в трее и умеет по зажима
 #
 https://justgetflux.com/ - f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
 https://github.com/czarny/brisync - Synchronize your external display brightness with built-in display.
+https://github.com/wulkano/Kap - An open-source screen recorder built with web technology
 
 #
 # Video
 #
 https://iina.io/ - The modern media player for macOS.
+https://www.capcut.com/ - Free video editor for all your needs
+
+
+#
+# mouse
+#
+https://github.com/Caldis/Mos/blob/master/README.enUS.md - invert mouse on Mac
+
+#
+# AI 
+#
+https://diffusionbee.com/ - DiffusionBee is the easiest way to generate AI art on your computer with Stable Diffusion. Comes with a one-click installer. No dependencies or technical knowledge needed.
+
+#
+# Soft
+#
+https://freemacsoft.net/appcleaner/ - app cleaner
+https://github.com/Ji4n1ng/OpenInTerminal - Open X (e.g., folders or files) in Terminal or Editor
+
+#
+# other
+#
+https://sindresorhus.com/pandan.html - pomodoro on MacOS
