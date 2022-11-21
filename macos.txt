@@ -39,3 +39,8 @@ https://github.com/Ji4n1ng/OpenInTerminal - Open X (e.g., folders or files) in T
 # other
 #
 https://sindresorhus.com/pandan.html - pomodoro on MacOS
+
+#
+# Shell
+#
+pbcopy - you can скопировать в буфер обмена все выведенное в консоли без этого нудного возякания мышкой по экрану прямо в консоли через pipe. Например echo -n something | pbcopy
