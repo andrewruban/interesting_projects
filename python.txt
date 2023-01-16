@@ -27,5 +27,10 @@ https://github.com/keras-team/keras - Очень популярный фрейм
 https://github.com/iperov/DeepFaceLab - Он запоминает человеческое лицо и «имплантирует» его в другое видео, чтобы заменить исходное лицо на то, которое нужно добавить. Может быть много этических проблем, но этот проект действительно потрясающий.
 https://github.com/dovpanda-dev/dovpanda - Directions overlay for working with pandas in an analysis environment
 
-
-
+#
+# CLI
+#
+https://tqdm.github.io/ - add  a smart progress meter to your loops show
+https://pypi.org/project/colorama/ - Используя colorama, вы можете раскрасить любой вывод текста и выделить определенные слова, фразы или строки.Ошибки отображаются красным цветом, успешные операции — зеленым.
+https://pypi.org/project/art/ - ASCII art is also known as "computer text art". It involves the smart placement of typed special characters or letters to make a visual shape that is spread over multiple lines of text.
+https://pypi.org/project/tabulate/ - Pretty-print tabular data in Python, a library and a command-line utility. (Печать таблиц - easy)
