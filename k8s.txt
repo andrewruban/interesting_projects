@@ -38,7 +38,6 @@ https://github.com/zalando/zalenium - A flexible and scalable container based Se
 #
 https://github.com/Vinum-Security/kubernetes-security-checklist - Kubernetes Security Checklist and Requirements
 https://github.com/stackrox/kube-linter - Static analysis for Kubernetes
-https://github.com/aquasecurity/kube-bench - is tool that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark
 https://github.com/aquasecurity/kube-hunter - hunts for security weaknesses in Kubernetes clusters
 https://github.com/armosec/kubescape - a first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by NSA and CISA
 https://habr.com/ru/company/flant/blog/465141/ - 33+ инструмента для безопасности Kubernetes
@@ -47,7 +46,7 @@ https://github.com/kabachook/k8s-security - Kubernetes security notes and best p
 https://habr.com/ru/company/flant/blog/465141/ [ru] - list of projects that can improve k8s security
 https://kubesec.io/ - Security risk analysis for Kubernetes resources 
 https://github.com/octarinesec/kube-scan - kube-scan: Octarine k8s cluster risk assessment tool 
-https://github.com/aquasecurity/kube-bench - Go application that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
+!! https://github.com/aquasecurity/kube-bench - Go application that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
 
 # k8s architecture
 https://github.com/learnk8s/kubernetes-production-best-practices - A checklist of Kubernetes best practices to help you release to production
