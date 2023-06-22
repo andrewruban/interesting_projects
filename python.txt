@@ -5,6 +5,11 @@
 https://github.com/vinta/awesome-python 
 
 #
+# UI interface
+#
+https://flet.dev/ - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+
+
 # Linters
 #
 https://github.com/charliermarsh/ruff - An extremely fast Python linter, written in Rust.
