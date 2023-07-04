@@ -23,8 +23,8 @@ https://github.com/hellofresh/klepto# - Klepto is a tool that copies and anonymi
 #
 # Postgres
 #
+https://github.com/dalibo/pg_activity - Command line tool for PostgreSQL server activity monitoring.
 https://gitlab.com/postgres-ai/postgres-checkup - new kind of diagnostics tool for a deep analysis of a Postgres database health
-https://github.com/postgres-ai/postgres-checkup - diagnostics tool for a deep analysis of a Postgres database health. Parent of ^
 https://github.com/NikolayS/postgres_dba - The missing set of useful tools for Postgres DBA and mere mortals.
 https://github.com/dataegret/pg-utils 
 https://github.com/ioguix/pgsql-bloat-estimation
