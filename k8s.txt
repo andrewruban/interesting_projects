@@ -19,7 +19,7 @@ https://github.com/itaysk/kubectl-neat - Remove clutter from Kubernetes manifest
 https://github.com/sbstp/kubie - kubie is an alternative to kubectx, kubens and the k on prompt modification script.
 https://github.com/aylei/kubectl-debug - Debug your pod by a new container with every troubleshooting tools pre-installed
 https://github.com/derailed/k9s - Kubernetes CLI To Manage Your Clusters In Style!
-https://github.com/corneliusweig/rakkess - kubectl plugin to show an access matrix for k8s server resources
+
 https://github.com/derailed/k9s - Kubernetes CLI To Manage Your Clusters In Style! https://k9scli.io
 https://github.com/jonmosco/kube-ps1 - Kubernetes prompt info for bash and zsh
 https://github.com/ahmetb/kubectl-aliases - Programmatically generated handy kubectl aliases.
@@ -47,6 +47,11 @@ https://habr.com/ru/company/flant/blog/465141/ [ru] - list of projects that can 
 https://kubesec.io/ - Security risk analysis for Kubernetes resources 
 https://github.com/octarinesec/kube-scan - kube-scan: Octarine k8s cluster risk assessment tool 
 !! https://github.com/aquasecurity/kube-bench - Go application that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
+https://github.com/alcideio/rbac-tool - A Kubernetes RBAC visualizer that generate a graph as dot file format or in HTML format.
+https://github.com/FairwindsOps/rbac-lookup - RBAC Lookup is a CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name. Binaries are generated with goreleaser for each release for simple installation.
+https://github.com/corneliusweig/rakkess - kubectl plugin to show an access matrix for k8s server resources
+
+
 
 # k8s architecture
 https://github.com/learnk8s/kubernetes-production-best-practices - A checklist of Kubernetes best practices to help you release to production
@@ -112,6 +117,7 @@ https://github.com/bitnami-labs/kubewatch - Kubernetes watcher that currently pu
 https://github.com/stefanprodan/podinfo - Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes.
 https://github.com/utkuozdemir/pv-migrate - CLI tool/kubectl plugin to easily migrate the contents of one Kubernetes PersistentVolume[Claim] to another.
 https://github.com/FairwindsOps/pluto - utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases.
+https://github.com/aquasecurity/kubectl-who-can - Shows which subjects have RBAC permissions to VERB [TYPE | TYPE/NAME | NONRESOURCEURL] in Kubernetes.
 
 #
 # k8s - GKE 
