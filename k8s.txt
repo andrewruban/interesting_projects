@@ -14,7 +14,6 @@ https://github.com/garden-io/garden - Development orchestrator for Kubernetes, c
 #
 # kubectl
 #
-https://github.com/collabnix/kubetools - A Curated List of Kubernetes Tools 
 https://github.com/keisku/kubectl-explore - plugin fuzzy-find the field explanation from supported API resources. It implements different explanations for particular API version.
 https://github.com/itaysk/kubectl-neat - Remove clutter from Kubernetes manifests to make them more readable.
 https://github.com/sbstp/kubie - kubie is an alternative to kubectx, kubens and the k on prompt modification script.
@@ -96,6 +95,7 @@ https://github.com/nicolaka/netshoot - a Docker + Kubernetes network trouble-sho
 #
 # k8s - other
 #
+!! https://github.com/collabnix/kubetools - A Curated List of Kubernetes Tools 
 https://k8syaml.com/ - k8s yaml generator
 https://kubezilla.com/tools/ - Kubetools – Curated List of Kubernetes Tools
 https://github.com/instrumenta/kubeval - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
