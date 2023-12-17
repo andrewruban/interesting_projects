@@ -26,6 +26,7 @@ https://github.com/docopt/docopt - creates beautiful command-line interfaces
 https://github.com/pypa/pipenv -  automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your Pipfile as you install/uninstall packages. It also generates the ever-important Pipfile.lock, which is used to produce deterministic builds.
 https://github.com/home-assistant/core - Hоmе Assistant с открытым исходным кодом, которая ставит на первое место локальный контроль и конфиденциальность. Работает благодаря огромному коммьюнити экспертов и энтузиастов DIY. Идеально подходит для работы на Raspberry Pi или локальном сервере. Используется во многих успешных продуктах, таких как Amazon Alexa и Google Cast.
 https://github.com/spulec/moto - A library that allows you to easily mock out tests based on AWS infrastructure
+https://github.com/chriskiehl/Gooey -  Turn (almost) any Python 3 Console Program into a GUI application with one line
 
 #
 # Machine Learning
