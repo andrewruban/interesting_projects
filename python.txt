@@ -27,6 +27,7 @@ https://github.com/pypa/pipenv -  automatically creates and manages a virtualenv
 https://github.com/home-assistant/core - Hоmе Assistant с открытым исходным кодом, которая ставит на первое место локальный контроль и конфиденциальность. Работает благодаря огромному коммьюнити экспертов и энтузиастов DIY. Идеально подходит для работы на Raspberry Pi или локальном сервере. Используется во многих успешных продуктах, таких как Amazon Alexa и Google Cast.
 https://github.com/spulec/moto - A library that allows you to easily mock out tests based on AWS infrastructure
 https://github.com/chriskiehl/Gooey -  Turn (almost) any Python 3 Console Program into a GUI application with one line
+https://github.com/andrewruban/File_Hider - tool that allows you to securely hide and encrypt a file within another file
 
 #
 # Machine Learning
