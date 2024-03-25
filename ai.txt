@@ -1,0 +1,6 @@
+# AI for local usage 
+https://github.com/AUTOMATIC1111/stable-diffusion-webui - A web interface for Stable Diffusion, implemented using Gradio library.
+
+
+# Draw pics in web
+https://drawthings.ai/ - 
