@@ -4,3 +4,7 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui - A web interface for St
 
 # Draw pics in web
 https://drawthings.ai/ - 
+
+
+# Open-source models
+https://github.com/PKU-YuanGroup/Open-Sora-Plan - which significantly enhances video generation quality and text control capabilities
