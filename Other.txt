@@ -37,6 +37,7 @@ https://github.com/netflix/chaosmonkey - Chaos Monkey is a resiliency tool that 
 # ---------------------------------------------------------
 # Shell/CLI
 # ---------------------------------------------------------
+https://github.com/Wilfred/difftastic - Difftastic is a structural diff tool that compares files based on their syntax.
 https://github.com/fastfetch-cli/fastfetch - Fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way
 https://github.com/PaulJuliusMartinez/jless - is a command-line JSON viewer. Use it as a replacement for whatever combination of less, jq, cat and your editor you currently use for viewing JSON files.
 https://github.com/alexellis/arkade - arkade is how developers install the latest versions of their favourite tools and Kubernetes apps.
