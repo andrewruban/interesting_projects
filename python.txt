@@ -17,6 +17,7 @@ https://github.com/charliermarsh/ruff - An extremely fast Python linter, written
 #
 # Interesting
 #
+https://github.com/astral-sh/uv - An extremely fast Python package and project manager, written in Rust.
 https://github.com/soimort/you-get - is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
 https://github.com/Textualize/rich - Rich is a Python library for rich text and beautiful formatting in the terminal.
 https://nbedos.github.io/termtosvg/ - is a Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations
