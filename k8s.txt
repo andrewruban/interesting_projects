@@ -18,9 +18,6 @@ https://github.com/keisku/kubectl-explore - plugin fuzzy-find the field explanat
 https://github.com/itaysk/kubectl-neat - Remove clutter from Kubernetes manifests to make them more readable.
 https://github.com/sbstp/kubie - kubie is an alternative to kubectx, kubens and the k on prompt modification script.
 https://github.com/aylei/kubectl-debug - Debug your pod by a new container with every troubleshooting tools pre-installed
-https://github.com/derailed/k9s - Kubernetes CLI To Manage Your Clusters In Style!
-
-https://github.com/derailed/k9s - Kubernetes CLI To Manage Your Clusters In Style! https://k9scli.io
 https://github.com/jonmosco/kube-ps1 - Kubernetes prompt info for bash and zsh
 https://github.com/ahmetb/kubectl-aliases - Programmatically generated handy kubectl aliases.
 https://github.com/johanhaleby/kubetail - Bash script to tail Kubernetes logs from multiple pods at the same time
@@ -84,6 +81,7 @@ https://github.com/cloud-ark/kubeplus - kubectl plugins to visualize and monitor
 https://github.com/benc-uk/kubeview - Kubernetes cluster visualiser and visual explorer
 https://github.com/weaveworks/scope - Troubleshooting & Monitoring for Docker & Kubernetes
 https://github.com/freelensapp/freelens - free lens
+https://github.com/derailed/k9s - Kubernetes CLI To Manage Your Clusters In Style!
 
 #
 # K8s debug
