@@ -40,6 +40,7 @@ https://github.com/Ji4n1ng/OpenInTerminal - Open X (e.g., folders or files) in T
 #
 https://sindresorhus.com/pandan.html - pomodoro on MacOS
 https://alt-tab-macos.netlify.app/ - like alt+tab on Windows
+https://pandoc.org/getting-started.html - markdown to epub converter 
 
 #
 # Shell
