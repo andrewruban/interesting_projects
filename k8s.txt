@@ -50,7 +50,6 @@ https://github.com/FairwindsOps/rbac-lookup - RBAC Lookup is a CLI that allows y
 https://github.com/corneliusweig/rakkess - kubectl plugin to show an access matrix for k8s server resources
 
 
-
 # k8s architecture
 https://github.com/learnk8s/kubernetes-production-best-practices - A checklist of Kubernetes best practices to help you release to production
 https://github.com/FairwindsOps/polaris - Validation of best practices in your Kubernetes clusters
@@ -82,6 +81,7 @@ https://github.com/benc-uk/kubeview - Kubernetes cluster visualiser and visual e
 https://github.com/weaveworks/scope - Troubleshooting & Monitoring for Docker & Kubernetes
 https://github.com/freelensapp/freelens - free lens
 https://github.com/derailed/k9s - Kubernetes CLI To Manage Your Clusters In Style!
+https://github.com/awslabs/eks-node-viewer - is a tool for visualizing dynamic node usage within a cluster. It was originally developed as an internal tool at AWS for demonstrating consolidation with Karpenter.
 
 #
 # K8s debug
