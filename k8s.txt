@@ -120,6 +120,7 @@ https://github.com/utkuozdemir/pv-migrate - CLI tool/kubectl plugin to easily mi
 https://github.com/FairwindsOps/pluto - utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases.
 https://github.com/aquasecurity/kubectl-who-can - Shows which subjects have RBAC permissions to VERB [TYPE | TYPE/NAME | NONRESOURCEURL] in Kubernetes.
 https://kubespec.dev/ -  Find the documentation for all Kubernetes resources, properties, types, and examples.
+https://github.com/yannh/kubeconform -  is a Kubernetes manifest validation tool. Incorporate it into your CI, or use it locally to validate your Kubernetes configuration!
 
 #
 # k8s - GKE 
