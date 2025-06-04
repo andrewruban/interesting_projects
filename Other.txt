@@ -109,6 +109,7 @@ https://github.com/kar97k/tinder-swipe-bot - Открывает тиндер в 
 # Writing
 # ---------------------------------------------------------
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet - Markdown Cheatsheet
+https://github.com/microsoft/markitdown - MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines.
 
 # ---------------------------------------------------------
 # SSO
