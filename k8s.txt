@@ -93,6 +93,11 @@ https://github.com/up9inc/mizu/ - A simple-yet-powerful API traffic viewer for K
 https://github.com/nicolaka/netshoot - a Docker + Kubernetes network trouble-shooting swiss-army container
 
 #
+# CRD
+#
+https://github.com/pehlicd/crd-wizard - CR(D) Wizard is a tool designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs).
+
+#
 # k8s - other
 #
 !! https://github.com/collabnix/kubetools - A Curated List of Kubernetes Tools 
