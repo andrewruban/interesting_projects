@@ -11,6 +11,12 @@ https://github.com/flant/werf
 
 https://github.com/garden-io/garden - Development orchestrator for Kubernetes, containers and functions. https://garden.io
 
+
+#
+# API
+#
+https://github.com/doitintl/kube-no-trouble - Easily check your clusters for use of deprecated APIs
+
 #
 # kubectl
 #
