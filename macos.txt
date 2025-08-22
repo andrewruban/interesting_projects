@@ -34,7 +34,8 @@ https://diffusionbee.com/ - DiffusionBee is the easiest way to generate AI art o
 #
 https://freemacsoft.net/appcleaner/ - app cleaner
 https://github.com/Ji4n1ng/OpenInTerminal - Open X (e.g., folders or files) in Terminal or Editor
-
+https://textsniper.app/ - Instantly capture non-selectable text from YouTube videos, PDFs, images, online courses, screencasts, presentations, webpages, video tutorials, photos, etc
+Time Out -> Break Reminders 
 #
 # other
 #
@@ -46,3 +47,8 @@ https://pandoc.org/getting-started.html - markdown to epub converter
 # Shell
 #
 pbcopy - you can скопировать в буфер обмена все выведенное в консоли без этого нудного возякания мышкой по экрану прямо в консоли через pipe. Например echo -n something | pbcopy
+
+#
+# System
+#
+https://bjango.com/mac/istatmenus/ - 
