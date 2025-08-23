@@ -51,4 +51,4 @@ pbcopy - you can скопировать в буфер обмена все выв
 #
 # System
 #
-https://bjango.com/mac/istatmenus/ - 
+https://bjango.com/mac/istatmenus/ - The ultimate system monitor
