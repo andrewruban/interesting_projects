@@ -10,3 +10,6 @@ https://github.com/junegunn/fzf - fzf is a general-purpose command-line fuzzy fi
 #
 github.githistory.xyz - Quickly browse the history of a file from any git repository
 https://fatbusinessman.com/2019/my-favourite-git-commit - how to make commits
+
+# Git
+https://github.com/jesseduffield/lazygit - A simple terminal UI for git commands
