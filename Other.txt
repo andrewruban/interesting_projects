@@ -60,6 +60,7 @@ https://github.com/TomWright/dasel - Dasel (short for data-selector) allows you 
 https://github.com/atanunq/viu - A small command-line application to view images from the terminal written in Rust
 https://github.com/Byron/dua-cli - (-> Disk Usage Analyzer) is a tool to conveniently learn about the usage of disk space of a given directory
 https://github.com/aws/amazon-q-developer-cli - Amazon Q CLI brings IDE-style autocomplete and agentic capabilities to your terminal.
+https://kiro.dev/docs/cli/autocomplete/#using-autocomplete - Kiro helps you do your best work by bringing structure to AI coding with spec-driven development
 
 # ZSH plugins
 git
