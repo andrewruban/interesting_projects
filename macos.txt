@@ -12,6 +12,8 @@ https://justgetflux.com/ - f.lux fixes this: it makes the color of your computer
 https://github.com/czarny/brisync - Synchronize your external display brightness with built-in display.
 https://github.com/wulkano/Kap - An open-source screen recorder built with web technology
 https://github.com/jordanbaird/Ice -  powerful menu bar management tool (~bartender)
+https://apps.apple.com/us/app/flowy-screen-recorder-editor/id6748351905?mt=12 - Flowy is one of the best apps we’re discussing today. It is a screen recording software. 
+
 #
 # Video
 #
@@ -42,6 +44,7 @@ Time Out -> Break Reminders
 https://sindresorhus.com/pandan.html - pomodoro on MacOS
 https://alt-tab-macos.netlify.app/ - like alt+tab on Windows
 https://pandoc.org/getting-started.html - markdown to epub converter 
+https://apps.apple.com/us/app/excalidrawz/id6636493997 - ExcalidrawZ is a native, open-source client for Excalidraw. It works on both macOS & iOS. It wraps the open-source web app into a native experience.
 
 #
 # Shell
