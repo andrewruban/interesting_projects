@@ -53,3 +53,9 @@ pbcopy - you can скопировать в буфер обмена все выв
 #
 https://bjango.com/mac/istatmenus/ - The ultimate system monitor
 https://github.com/hatashiro/kawa - A macOS input source switcher with user-defined shortcuts.
+
+#
+# Backups
+#
+https://parachuteapps.com/parachute - Parachute is a set-and-forget backup companion for iCloud Photos and iCloud Drive. It automatically syncs your memories—photos, videos, and documents—to your own storage, giving you peace of mind and full control.
+
