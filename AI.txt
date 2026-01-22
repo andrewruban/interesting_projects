@@ -8,3 +8,9 @@ https://drawthings.ai/ -
 
 # Open-source models
 https://github.com/PKU-YuanGroup/Open-Sora-Plan - which significantly enhances video generation quality and text control capabilities
+
+
+#
+# Claude (skills)
+#
+https://github.com/antonbabenko/terraform-skill 
