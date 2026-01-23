@@ -6,11 +6,9 @@
 # K8s CI/CD
 #
 
-https://github.com/flant/werf 
-- Werf (previously known as dapp) helps to implement and support Continuous Integration and Continuous Delivery
-
+https://github.com/flant/werf  - Werf (previously known as dapp) helps to implement and support Continuous Integration and Continuous Delivery
 https://github.com/garden-io/garden - Development orchestrator for Kubernetes, containers and functions. https://garden.io
-
+https://github.com/stakater/Reloader/tree/master - reloader tool to reload deployments and other after secrets/configmap changes
 
 #
 # API
