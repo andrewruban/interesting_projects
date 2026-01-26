@@ -28,6 +28,7 @@ https://github.com/johanhaleby/kubetail - Bash script to tail Kubernetes logs fr
 https://github.com/ahmetb/kubectl-tree - kubectl plugin to browse Kubernetes object hierarchies as a tree
 https://github.com/a0xAi/kubeve/tree/main - kubeve is a tool to for reading Kubernetes events in human way
 
+
 #k8s krew
 https://github.com/dirathea/kubectl-unused-volumes - A kubectl plugin to gather all PVC and output all pvcs that doesn't belong to any workloads
 https://github.com/elsesiy/kubectl-view-secret - view secrets without base64 decoding
@@ -95,6 +96,7 @@ https://github.com/box/kube-iptables-tailer - is a service that gives you better
 https://github.com/eldadru/ksniff - A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster.
 https://github.com/up9inc/mizu/ - A simple-yet-powerful API traffic viewer for Kubernetes to help you troubleshoot and debug your microservices. Think TCPDump and Chrome Dev Tools combined.
 https://github.com/nicolaka/netshoot - a Docker + Kubernetes network trouble-shooting swiss-army container
+https://github.com/stern/stern - Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod. Each result is color coded for quicker debugging.
 
 #
 # CRD
