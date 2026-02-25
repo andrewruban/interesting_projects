@@ -38,6 +38,8 @@ https://freemacsoft.net/appcleaner/ - app cleaner
 https://github.com/Ji4n1ng/OpenInTerminal - Open X (e.g., folders or files) in Terminal or Editor
 https://textsniper.app/ - Instantly capture non-selectable text from YouTube videos, PDFs, images, online courses, screencasts, presentations, webpages, video tutorials, photos, etc
 Time Out -> Break Reminders 
+https://github.com/alienator88/Pearcleaner - cleaner
+
 #
 # other
 #
