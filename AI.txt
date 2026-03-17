@@ -14,3 +14,4 @@ https://github.com/PKU-YuanGroup/Open-Sora-Plan - which significantly enhances v
 # Claude (skills)
 #
 https://github.com/antonbabenko/terraform-skill 
+https://github.com/rtk-ai/rtk - High-performance CLI proxy that reduces LLM token consumption by 60-90%
