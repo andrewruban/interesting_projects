@@ -17,3 +17,8 @@ https://github.com/antonbabenko/terraform-skill
 https://github.com/rtk-ai/rtk - High-performance CLI proxy that reduces LLM token consumption by 60-90%
 https://github.com/jarrodwatts/claude-hud - A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input.
 https://github.com/openai/codex-plugin-cc - add codex plugin to claude
+
+#
+# LLM-Council
+#
+https://github.com/karpathy/llm-council
