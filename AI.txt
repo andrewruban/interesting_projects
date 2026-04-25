@@ -22,3 +22,8 @@ https://github.com/openai/codex-plugin-cc - add codex plugin to claude
 # LLM-Council
 #
 https://github.com/karpathy/llm-council
+
+#
+# Agents
+#
+https://github.com/multica-ai/multica - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
