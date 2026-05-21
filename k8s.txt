@@ -39,6 +39,7 @@ https://github.com/zalando/zalenium - A flexible and scalable container based Se
 #
 # Kubernetes Security
 #
+https://github.com/0hardik1/Kubesplaining - Kubesplaining is an open-source Kubernetes security assessment CLI that reads a live cluster or a captured snapshot and tells you exactly how an attacker can move through it
 https://github.com/Vinum-Security/kubernetes-security-checklist - Kubernetes Security Checklist and Requirements
 https://github.com/stackrox/kube-linter - Static analysis for Kubernetes
 https://github.com/aquasecurity/kube-hunter - hunts for security weaknesses in Kubernetes clusters
