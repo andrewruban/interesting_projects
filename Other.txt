@@ -43,6 +43,7 @@ https://github.com/netflix/chaosmonkey - Chaos Monkey is a resiliency tool that 
 # ---------------------------------------------------------
 # Shell/CLI
 # ---------------------------------------------------------
+https://github.com/manaflow-ai/cmux - A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 https://github.com/sharkdp/fd - fd is a program to find entries in your filesystem. It is a simple, fast and user-friendly alternative to find
 https://github.com/Wilfred/difftastic - Difftastic is a structural diff tool that compares files based on their syntax.
 https://github.com/fastfetch-cli/fastfetch - Fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way
