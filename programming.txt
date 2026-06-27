@@ -1,3 +1,7 @@
+# ---------------------------------------------------------
+# Spec
+# ---------------------------------------------------------
+https://github.com/github/spec-kit - Build high-quality software faster. An open source toolkit that allows you to focus on product scenarios and predictable outcomes instead of vibe coding every piece from scratch.
 
 # ---------------------------------------------------------
 # Go
