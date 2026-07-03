@@ -27,3 +27,9 @@ https://github.com/karpathy/llm-council
 # Agents
 #
 https://github.com/multica-ai/multica - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+
+
+#
+# USEFUL
+#
+https://github.com/DietrichGebert/ponytail --->>>> ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe
