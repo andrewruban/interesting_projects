@@ -11,8 +11,9 @@ https://github.com/PKU-YuanGroup/Open-Sora-Plan - which significantly enhances v
 
 
 #
-# Claude (skills)
+# Skills
 #
+https://github.com/mattpocock/skills
 https://github.com/antonbabenko/terraform-skill 
 https://github.com/rtk-ai/rtk - High-performance CLI proxy that reduces LLM token consumption by 60-90%
 https://github.com/jarrodwatts/claude-hud - A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input.
@@ -33,3 +34,4 @@ https://github.com/multica-ai/multica - The open-source managed agents platform.
 # USEFUL
 #
 https://github.com/DietrichGebert/ponytail --->>>> ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe
+
