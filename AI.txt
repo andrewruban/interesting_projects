@@ -23,6 +23,8 @@ https://github.com/openai/codex-plugin-cc - add codex plugin to claude
 # LLM-Council
 #
 https://github.com/karpathy/llm-council
+https://github.com/antonbabenko/deliberation 
+
 
 #
 # Agents
