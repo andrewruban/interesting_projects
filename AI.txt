@@ -38,6 +38,7 @@ https://github.com/multica-ai/multica - The open-source managed agents platform.
 https://github.com/DietrichGebert/ponytail --->>>> ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe
 
 #
-# SDD
+# spec drive development
 #
+https://github.com/github/spec-kit 
 https://github.com/genkovich/sdd
