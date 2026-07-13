@@ -10,6 +10,6 @@ https://github.com/junegunn/fzf - fzf is a general-purpose command-line fuzzy fi
 #
 github.githistory.xyz - Quickly browse the history of a file from any git repository
 https://fatbusinessman.com/2019/my-favourite-git-commit - how to make commits
-
+https://github.com/scmbreeze/scm_breeze - SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git. It integrates with your shell to give you numbered file shortcuts, a repository index with tab completion, and many other useful features.
 # Git
 https://github.com/jesseduffield/lazygit - A simple terminal UI for git commands
