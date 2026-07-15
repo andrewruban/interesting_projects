@@ -13,7 +13,7 @@ https://github.com/PKU-YuanGroup/Open-Sora-Plan - which significantly enhances v
 #
 # Skills
 #
-https://github.com/mattpocock/skills
+https://github.com/mattpocock/skills - My agent skills that I use every day to do real engineering - not vibe coding.
 https://github.com/antonbabenko/terraform-skill 
 https://github.com/jarrodwatts/claude-hud - A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input.
 https://github.com/openai/codex-plugin-cc - add codex plugin to claude
@@ -22,7 +22,7 @@ https://github.com/openai/codex-plugin-cc - add codex plugin to claude
 # LLM-Council
 #
 https://github.com/karpathy/llm-council
-https://github.com/antonbabenko/deliberation 
+https://github.com/antonbabenko/deliberation -Get a second opinion in Claude Code from GPT, Gemini, and Grok - plus 400+ more models through OpenRouter, including Qwen, Kimi, and DeepSeek
 
 
 #
@@ -40,4 +40,4 @@ https://github.com/DietrichGebert/ponytail --->>>> ~54% less code (up to 94%) ·
 # spec drive development
 #
 https://github.com/github/spec-kit 
-https://github.com/genkovich/sdd
+https://github.com/genkovich/sdd - A self-contained Claude Code plugin that carries a feature from a one-line idea to reviewed, verified, shipped code through 19 atomic, stack-agnostic skills and a TDD implementation engine — with a living roadmap above the per-feature flow.
