@@ -17,6 +17,8 @@ https://github.com/mattpocock/skills - My agent skills that I use every day to d
 https://github.com/antonbabenko/terraform-skill 
 https://github.com/jarrodwatts/claude-hud - A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input.
 https://github.com/openai/codex-plugin-cc - add codex plugin to claude
+https://github.com/leonxlnx/taste-skill - Anti-Slop Frontend Framework for AI Agents
+
 
 #
 # LLM-Council
