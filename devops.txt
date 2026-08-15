@@ -19,6 +19,7 @@ https://google.github.io/eng-practices/review/ - how to make a code review
 # Hire new devops
 #
 https://dou.ua/lenta/articles/how-to-interview-devops-engineer/
+https://github.com/santifer/career-ops - find proper jobs
 
 #
 # Free Courses from Cloud Native
