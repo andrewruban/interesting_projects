@@ -43,3 +43,4 @@ https://github.com/DietrichGebert/ponytail --->>>> ~54% less code (up to 94%) ·
 #
 https://github.com/github/spec-kit 
 https://github.com/genkovich/sdd - A self-contained Claude Code plugin that carries a feature from a one-line idea to reviewed, verified, shipped code through 19 atomic, stack-agnostic skills and a TDD implementation engine — with a living roadmap above the per-feature flow.
+https://github.com/obra/superpowers/tree/main - Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.
