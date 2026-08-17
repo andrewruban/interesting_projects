@@ -31,7 +31,7 @@ https://github.com/antonbabenko/deliberation -Get a second opinion in Claude Cod
 # Agents
 #
 https://github.com/multica-ai/multica - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-
+https://github.com/wshobson/agents - Production-ready agentic workflow building blocks: 91 plugins, 202 agents, 180 skills, 105 commands — built for Claude Code and consumed natively by OpenAI Codex CLI, Cursor, OpenCode, Gemini CLI, and GitHub Copilot from a single Markdown source
 
 #
 # USEFUL
