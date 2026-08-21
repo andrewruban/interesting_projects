@@ -1,6 +1,6 @@
 # AI for local usage 
 https://github.com/AUTOMATIC1111/stable-diffusion-webui - A web interface for Stable Diffusion, implemented using Gradio library.
-
+https://github.com/andrewyng/openworker - AI that gets your everyday tasks done. OpenWorker is an open-source AI coworker that lives on your desktop and delivers finished work, not just chat
 
 # Draw pics in web
 https://drawthings.ai/ - 
