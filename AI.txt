@@ -36,6 +36,7 @@ https://github.com/wshobson/agents - Production-ready agentic workflow building 
 #
 # USEFUL
 #
+https://github.com/ihorkhamuliak/focus-ai-library - FROM FOCUS community
 https://github.com/DietrichGebert/ponytail --->>>> ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe
 
 #
