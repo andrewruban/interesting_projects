@@ -142,3 +142,9 @@ https://github.com/haugene/docker-transmission-openvpn - OpenVPN and Transmissio
 # Browsers
 # ---------------------------------------------------------
 https://darkreader.org/ - Dark Reader browser extensions
+
+
+# ---------------------------------------------------------
+# Wiki
+# ---------------------------------------------------------
+https://github.com/langchain-ai/openwiki - OpenWiki turns your codebase and knowledge sources into a linked Markdown wiki that you own
