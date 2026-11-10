@@ -49,3 +49,6 @@ https://github.com/obra/superpowers/tree/main - Superpowers is a complete softwa
 
 ### Speach to Text
 https://github.com/moona3k/macparakeet - 
+
+### Local COding 
+https://github.com/anomalyco/opencode - The open source AI coding agent.
